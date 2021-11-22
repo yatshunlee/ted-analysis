@@ -1,5 +1,5 @@
 1. please download the dataset "ted_talks_en.csv" from https://www.kaggle.com/miguelcorraljr/ted-ultimate-dataset
-2. put the "ted_talks_en.csv" into the raw_dataset folder
+2. put the "ted_talks_en.csv" into the raw_data folder
 3. then you can run the data_processing.ipynb
 4. due to the use of large size gensim word2vec api, we also use colab during data processing and plot graph
 5. run word2vec.ipynb in google colab, please put the required files also in your google drive
