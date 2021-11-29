@@ -1,9 +1,10 @@
 # Ted Talk Analysis
 
-dataset: 
+Datasets: 
 1) https://www.kaggle.com/rounakbanik/ted-talks
 2) https://www.kaggle.com/miguelcorraljr/ted-ultimate-dataset
 
-## Network Analysis (Related List)
-
-## Word Vectorization
+The Content:
+- Network Analysis (Related List)
+- Word Vectorization (Related List)
+- For more details, can read the MSDS5002 project_Analyzing Data about TED Talks.pptx.pdf
