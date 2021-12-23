@@ -9,4 +9,5 @@ The Content:
 - Word Vectorization (Related List)
 
 For more details, can read the MSDS5002 project_Analyzing Data about TED Talks.pptx.pdf
-Or check out the presentation video: https://www.youtube.com/watch?v=GxtOw55_khk&ab_channel=SasukeWong
+
+or check out the presentation video: https://www.youtube.com/watch?v=GxtOw55_khk&ab_channel=SasukeWong
